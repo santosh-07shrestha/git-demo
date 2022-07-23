@@ -1,0 +1,3 @@
+int firstName;
+int lastName;
+int age;
